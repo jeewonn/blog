@@ -3,7 +3,7 @@
 #CS
 
 ## 네트워크
--[ip,tcp,udp란?](Cs/네트워크/IP_TCP_UDP/ip_tcp_udp.md)
+- [ip,tcp,udp란?](Cs/네트워크/IP_TCP_UDP/ip_tcp_udp.md)
 
 # Database
 - [커넥션_풀](Database/커넥션_풀/커넥션_풀.md)
